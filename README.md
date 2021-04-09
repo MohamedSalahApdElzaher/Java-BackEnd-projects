@@ -1,6 +1,6 @@
 # **_The 5th pluralsight paths to learn Java BackEnd_**
 
-_**In this repo I hit a new challenge to myself, I will take benefit of free April (+7000 courses free :) ) from amazing learning platform such as pluralsight , so i wanna dive into java framworks day by day, record my accomplishments step by step and finally write some code on my style :+1:**_  
+_**In this repo I hit a new challenge to myself, I will take benefit of free April (+7000 courses free :) ) from amazing learning platform such as pluralsight , so i wanna dive into java frameworks day by day, record my accomplishments step by step and finally write some code on my style :+1:**_  
 
 **_The 5th paths:_**
 

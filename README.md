@@ -17,6 +17,32 @@ _**In this repo I hit a new challenge to myself, I will take benefit of free Apr
 
 - **_Building Web Apps and Services_**
 
+**_List of Courses:_**
+
+_- spring the big picture_
+_- spring fundamentals_
+_- create your first spring boot app_
+_- spring boot fundamentals_
+_- spring boot actuator_
+_- spring expression language_
+_- spring AOP_
+_- spring data overview_
+_- spring app with jdbc_
+_- spring data jpa_
+_- spring data jpa with hibernate_
+_- spring data mongoDB_
+_- spring integration: getting started_
+_- message system design patterns_
+_- Spring Integration: Monitoring, System Management and Debugging_
+_- Spring Integration: Advanced Message Handling Using Routing and Transformations_
+_- Spring Framework: Securing Spring Applications against Common Security Threats_
+_- Spring Framework: Authenticating Users with Spring Security_
+_- Spring Security: Authentication / Authorization - Building Effective Layers of Defense_
+_- Effective Oauth2 with Spring Security and Spring Boot_
+_- Securing Spring Data REST APIs_
+_- Spring Framework: Spring MVC Fundamentals_
+_- Spring Framework: Documenting Spring Data Rest APIs with Swagger and Springfox_
+_- Spring Framework: Versioning Spring Data REST APIs_
 
 ![screenshot_20210409_233337](https://user-images.githubusercontent.com/47748059/114244425-b8d05980-998e-11eb-9036-fa2d6c258e90.png)
 

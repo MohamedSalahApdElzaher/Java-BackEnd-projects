@@ -2,7 +2,7 @@
 
 _**In this repo I hit a new challenge to myself, I will take benefit of free April (+7000 courses free :) ) from amazing learning platform such as pluralsight , so i wanna dive into java frameworks day by day, record my accomplishments step by step and finally write some code on my style :+1:**_  
 
-**_The paths:_**
+**_List of paths:_**
 
 - **_Core Spring_**
 

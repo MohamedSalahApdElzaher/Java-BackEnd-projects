@@ -51,5 +51,7 @@ _Courses Link: https://app.pluralsight.com/search/?q=spring%20framework&type=pat
 
 **_Please contribute if you have a better idea / style or even if you wanna to fix something. I am a fast learner and would like to learn from you :)_**
 
+**_NOTE: This repo may include some code from other courses and i will provide the links._**
+
 
 

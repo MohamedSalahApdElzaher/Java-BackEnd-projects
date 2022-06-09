@@ -1,1 +1,1 @@
-# Java spring training
+# Java spring framework code examples
